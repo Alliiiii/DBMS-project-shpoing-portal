@@ -1,0 +1,45 @@
+﻿@model WebApplication3.Models.Pkg
+@{
+    ViewBag.Title = "AddPkg";
+    Layout = "~/Views/Shared/_AdminLayoutPage.cshtml";
+}
+
+
+
+
+<h2>Add Package</h2>
+<div class="col-lg-6">
+    @using (Html.BeginForm("AddPkg", "Admin", FormMethod.Post,
+        htmlAttributes: new { enctype = "multipart/form-data" }))
+    {
+        <h2>Package Name</h2>
+        <select name="Offers" style="outline: none; width: 90%;
+padding: .9em 1em;margin-top:10px; letter-spacing: 2px; font-size:
+    15px; color: #888; border: none; border: 1px solid #bbb;
+          border-left: 4px solid #bbb; background: none; border-radius: 3px;">
+            <option>Select Offer </option>
+            <option>Bronze offer</option>
+            <option>Silver offer</option>
+            <option>Golden offer</option>
+            <option>Premium offer</option>
+            <option>Daimond offer</option>
+            <option>platinium offer</option>
+            <option>Saphirre offer</option>
+            <option>Zarcon offer</option>
+        </select>
+        <input type="file" name="image" class="form-control"
+               style="outline: none; width: 90%; padding: .9em 1em;
+    margin-top:10px; letter-spacing: 2px; font-size: 15px; color: #888;
+    border: none; border: 1px solid #bbb; border-left: 4px solid #bbb;
+    background: none; border-radius: 3px;" />
+        @Html.TextAreaFor(x => x.Description,
+        htmlAttributes: new
+        {
+            @class = "form-control",
+            style = "outline: none; width: 90%; padding: .9em 1em;margin-top:10px; letter-spacing: 2px; font-size: 15px; color: #888; border: none; border: 1px solid #bbb; border-left: 4px solid #bbb; background: none; border-radius: 3px;"
+        })
+        <input type="submit" value="Add Package" class="btn btn-danger" /><br />
+        <h3>@ViewBag.pk</h3>
+    }
+</div>
+

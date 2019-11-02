@@ -1,0 +1,64 @@
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\EntityFramework.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\WebGrease.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\EntityFramework.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.Migrations.addtable.resources
+c:\users\syed affan ahmed\documents\visual studio 2013\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.GenerateResource.Cache
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\EntityFramework.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\WebGrease.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\EntityFramework.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\obj\Debug\WebApplication3.Migrations.addtable.resources
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.GenerateResource.Cache
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\4th semster\dbms\theory\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
